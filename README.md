@@ -1,2 +1,3 @@
 # python
-my first repository
+my first repository 
+github commands
